@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [flux2-api-es](https://github.com/my9x83cvrem/flux2-api-es)
+- **Same model, other languages** — 9 more language builds: 中文 [flux2-api-cn](https://github.com/dnh5k54bukj/flux2-api-cn) · Deutsch [flux2-api-de](https://github.com/jpblmt-we/flux2-api-de) · Français [flux2-api-fr](https://github.com/a60au8/flux2-api-fr) · Relay/gateway [flux2-api-gateway](https://github.com/h16wl2hk2jsr5/flux2-api-gateway) · Bahasa [flux2-api-id](https://github.com/irble1yxvm4/flux2-api-id) · 日本語 [flux2-api-ja](https://github.com/zbrg4-to41d4s/flux2-api-ja) · 한국어 [flux2-api-ko](https://github.com/rcqfbdzxruljzj/flux2-api-ko) · Português [flux2-api-pt](https://github.com/oegn4hjpzdou/flux2-api-pt) · Русский [flux2-api-ru](https://github.com/x621qovt/flux2-api-ru)
+- **More models in this language** — [midjourney-api-es](https://github.com/xbuu0/midjourney-api-es) · [gemini-2-5-flash-image-preview-api-es](https://github.com/ekw3w/gemini-2-5-flash-image-preview-api-es) · [nano-banana-api-es](https://github.com/gbm5mfl1/nano-banana-api-es) · [gemini-3-1-flash-image-preview-api-es](https://github.com/x3kcczm8l29xn/gemini-3-1-flash-image-preview-api-es) · [nano-banana-2-api-es](https://github.com/d63hy9t-4pp/nano-banana-2-api-es) · [gemini-3-pro-image-preview-api-es](https://github.com/uv9d8/gemini-3-pro-image-preview-api-es)
+- **Topic hubs** — every build of this model, all languages: [flux2](https://github.com/topics/flux2) · [flux2-api](https://github.com/topics/flux2-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
